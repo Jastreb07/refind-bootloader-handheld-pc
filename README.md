@@ -1,4 +1,4 @@
-# rEFInd Bootloader for Gaming Handheld PCs
+# rEFInd Bootloader (Dual Boot) for Gaming Handheld PCs
 
 ## 📄 License
 
