@@ -10,9 +10,21 @@ Please ensure compliance with rEFInd's original license when distributing modifi
 
 ---
 
-> Built for handheld tinkerers who want a bootloader as polished as their hardware.
+## ⚠️ Disclaimer
+
+This project is provided **"as is"** without warranty of any kind.
+
+By using these scripts and tools, you acknowledge that:
+
+- You are responsible for any changes made to your system.
+- The author(s) of this project **accept no liability** for potential issues, including (but not limited to) data loss, boot failures, or system instability.
+- Always create proper backups before modifying your EFI or bootloader settings.
+
+Use at your own risk.
 
 ---
+
+> Built for handheld tinkerers who want a bootloader as polished as their hardware.
 
 Custom rEFInd bootloader themes, configurations, and tools tailored for modern gaming handheld PCs. This project provides a clean, controller-friendly bootloader experience — ideal for dual-boot setups with Windows, SteamOS, and Bazzite OS.
 
