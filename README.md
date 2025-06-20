@@ -24,7 +24,7 @@ Custom rEFInd bootloader themes, configurations, and tools tailored for modern g
 - [Updating](#Updating-rEFInd)
 - [Backups & Restores](#Backups-&-Restores)
 - [Manually Select a Bootloader](#Manually-Select-a-Bootloader-in-BIOS/UEFI)
-- [Customizing](#customizing-the-background-and-icons-for-refind)
+- [Customizing](#-customizing-the-background-and-icons-for-refind)
 
 ---
 
