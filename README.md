@@ -5,7 +5,7 @@
 MIT License — free for all use, modifications, and redistribution.  
 Attribution appreciated but not required.
 
-This project includes and builds upon the [rEFInd boot manager](https://www.rodsbooks.com/refind/), which is licensed under the terms described in its own [LICENSE.txt](https://www.rodsbooks.com/refind/license.html).  
+This project includes and builds upon the [rEFInd boot manager](https://www.rodsbooks.com/refind/), which is licensed under the terms described in its own [LICENSE](https://sourceforge.net/projects/refind/).  
 Please ensure compliance with rEFInd's original license when distributing modified versions.
 
 ---
