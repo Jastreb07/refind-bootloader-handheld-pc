@@ -32,6 +32,17 @@ if exist %EFIDRIVE%\ (
     )
 )
 
+:: --------------------------------------
+:: Run backup first
+:: --------------------------------------
+echo Creating backup before installation...
+call "%~dp0windows-backup.bat" silent
+if %errorlevel% neq 0 (
+    echo Backup failed or was aborted. Installation cancelled.
+    pause
+    exit /b
+)
+
 :: Change to the directory where this script is located
 cd /d "%~dp0"
 
@@ -40,4 +51,9 @@ xcopy /E /Y refind Z:\EFI\refind\
 
 echo.
 echo Update complete.
-pause
+
+:: Optional restart
+set /p RESTART=Do you want to restart now? (y/n):
+if /i "%RESTART%"=="y" (
+    shutdown /r /t 5
+)

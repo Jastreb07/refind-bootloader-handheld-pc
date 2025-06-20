@@ -20,17 +20,6 @@ if %errorlevel% neq 0 (
 )
 
 :: --------------------------------------
-:: Run backup first
-:: --------------------------------------
-echo Creating backup before installation...
-call "%~dp0windows-backup.bat" silent
-if %errorlevel% neq 0 (
-    echo Backup failed or was aborted. Installation cancelled.
-    pause
-    exit /b
-)
-
-:: --------------------------------------
 :: Mount EFI partition to %EFIDRIVE% (if not already mounted)
 :: --------------------------------------
 if exist %EFIDRIVE%\ (
@@ -51,6 +40,17 @@ if exist %EFIDRIVE%\ (
         pause
         exit /b
     )
+)
+
+:: --------------------------------------
+:: Run backup first
+:: --------------------------------------
+echo Creating backup before installation...
+call "%~dp0windows-backup.bat" silent
+if %errorlevel% neq 0 (
+    echo Backup failed or was aborted. Installation cancelled.
+    pause
+    exit /b
 )
 
 :: --------------------------------------

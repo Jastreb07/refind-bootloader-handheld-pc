@@ -107,5 +107,3 @@ set /p RESTART=Do you want to restart now? (y/n):
 if /i "%RESTART%"=="y" (
     shutdown /r /t 5
 )
-
-pause
