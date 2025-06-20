@@ -57,7 +57,7 @@ Custom rEFInd bootloader themes, configurations, and tools tailored for modern g
 
 ---
 
-# 🔧 Customizing the Background and Icons for rEFInd
+## 🔧 Customizing the Background and Icons for rEFInd
 
 You can personalize this rEFInd theme by replacing the background image and icons to match your style or device branding.
 
