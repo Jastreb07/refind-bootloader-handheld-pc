@@ -164,7 +164,7 @@ All backups are saved in `backups\YYYY-MM-DD_HH-mm-ss\`.
 
 ---
 
-### 🔀 Manually Select a Bootloader in BIOS/UEFI
+## 🔀 Manually Select a Bootloader in BIOS/UEFI
 
 If your system boots into the wrong bootloader after a restore (e.g. Windows Bootloader instead of rEFInd, or vice versa), you can manually select the correct bootloader via the BIOS/UEFI.
 
