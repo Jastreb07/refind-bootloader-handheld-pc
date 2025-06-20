@@ -20,10 +20,10 @@ Custom rEFInd bootloader themes, configurations, and tools tailored for modern g
 
 ## 🧭 Contents
 
-- [Installation (Windows)](#Installation-Instructions-(Windows))
-- [Updating](#Updating-rEFInd)
-- [Backups & Restores](#Backups-&-Restores)
-- [Manually Select a Bootloader](#Manually-Select-a-Bootloader-in-BIOS/UEFI)
+- [Installation (Windows)](#%EF%B8%8F-installation-instructions-windows)
+- [Updating](#-updating-refind)
+- [Backups & Restores](#-backups--restores)
+- [Manually Select a Bootloader](#-manually-select-a-bootloader-in-biosuefi)
 - [Customizing](#-customizing-the-background-and-icons-for-refind)
 
 ---
