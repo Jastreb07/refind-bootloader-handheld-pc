@@ -7,6 +7,7 @@
 
 <details>
   <summary>More screenshots</summary>
+
 ![alt text](https://github.com/Jastreb07/refind-bootloader-handheld-pc/blob/main/refind/themes/Asus_ROG_Ally/screenshot.png)
 ![alt text](https://github.com/Jastreb07/refind-bootloader-handheld-pc/blob/main/refind/themes/MSI_Claw/screenshot.png)
 ![alt text](https://github.com/Jastreb07/refind-bootloader-handheld-pc/blob/main/refind/themes/Zotac_Zone/screenshot.png)
