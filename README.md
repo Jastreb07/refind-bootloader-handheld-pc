@@ -1,5 +1,11 @@
 # rEFInd Bootloader (Dual Boot) for Gaming Handheld PCs
 
+## 📄 Screenshots
+
+![alt text](https://github.com/Jastreb07/refind-bootloader-handheld-pc/blob/main/refind/themes/Steam_Deck/screenshot.png)
+
+---
+
 ## 📄 License
 
 MIT License — free for all use, modifications, and redistribution.  
